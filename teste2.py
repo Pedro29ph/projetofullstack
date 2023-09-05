@@ -1,0 +1,19 @@
+import math
+soma = 2+2
+print (f'resultado da soma 2+2= {soma}')
+sub= 6-2
+print (f'resultado da subtração 6-2= {sub}')
+mult= 2*2
+print (f'resultado da multplicação 2*2= {mult}')
+div= 8/2
+print (f'resultado da divisão 8/2= {div}')
+pot= 2**2
+print (f'resultado de 2 elevado a 2 (2**2)= {pot}')
+rest= 3 % 2
+print (f'resultado do resto de 2 dividido por 5 (2%5)= {rest}')
+divint= 8//2
+print (f'resultado da divisão 8/2= {divint}')
+raiz= math.sqrt (16)
+print (f'resultado da raiz de 16 (math.sqrt (16))= {raiz}')
+raiz2= 16**(1/2)
+print (f'resultado da raiz de 16 (16**(1/2))= {raiz2}')
