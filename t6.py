@@ -5,4 +5,4 @@ while x<=50:
     x+=1
     
 
-#formas iguais; x= x +1; x+= 1; isso serve para todos os operadores de soma
+#formas iguais; x= x +1; x+= 1; isso serve para todos os operadores de conta
